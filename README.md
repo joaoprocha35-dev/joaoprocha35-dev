@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=fxxggah&theme=tokyonight"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=joaoprocha35-dev&theme=tokyonight"/>
 </div>
 
 ---
@@ -52,7 +52,7 @@
 
   <div align="center">
 
-  <img src="https://raw.githubusercontent.com/fxxggah/fxxggah/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/joaoprocha35-dev/joaoprocha35-dev/output/snake.svg" alt="Snake animation" />
 
 </div>
 
