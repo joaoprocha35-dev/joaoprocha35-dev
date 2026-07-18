@@ -2,11 +2,11 @@
 
 # Olá! Sou João Rocha 👋
 
-### Web Designer & Desenvolvedor Frontend
+<!-- Efeito de escrita azul -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Web+Designer+e+Desenvolvedor+Frontend" /></a>
 
-<!-- Gráfico de Contribuições -->
-<img height="180em" src="https://streak-stats.demolab.com?user=joaoprocha35-dev&theme=tokyonight"/>
-<p><i>Construindo minha trajetória no GitHub há 1.5 anos.</i></p>
+<!-- Estatísticas Animadas -->
+<img height="180em" src="https://streak-stats.demolab.com?user=joaoprocha35-dev&theme=tokyonight&animated=true"/>
 
 </div>
 
@@ -19,13 +19,17 @@
 
 ---
 
+## 🎨 Explorando o Mundo do Design & Animações
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=xd,ai" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+</div>
 
-| 🎨 Explorando o Mundo do Design & Animações | ⚙️ Explorando Backend |
-| :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=xd,ai" /> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" /> | <img src="https://skillicons.dev/icons?i=python,nodejs" /> |
-| *Focando em UI/UX e animações com GSAP.* | *Estudando lógica e APIs.* |
+---
 
+## ⚙️ Explorando Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,nodejs" />
 </div>
 
 ---
