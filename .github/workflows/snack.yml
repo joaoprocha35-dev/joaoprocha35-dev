@@ -20,9 +20,10 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: joaoprocha35-dev
-          # Aqui apliquei uma paleta azul neon e fundo transparente/escuro
+          # Cores refinadas: Cobra em Ciano Neon e pontos combinando com seus commits (Roxo e Verde)
           outputs: |
-            dist/snake.svg?palette=github-dark&color_snake=#7AA2F7&color_dots=#16161e,#3b4261,#7aa2f7,#3d59a1,#7dcfff
+            dist/snake.svg?palette=github-dark&color_snake=#00f5d4&color_dots=#161b22,#4c1d95,#7c3aed,#a21caf,#10b981
+            
 
       - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
