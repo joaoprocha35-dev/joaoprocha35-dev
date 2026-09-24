@@ -3,7 +3,7 @@
 # Olá! Sou João Rocha 👋
 
 <!-- Efeito de escrita azul -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Web+Designer+e+Desenvolvedor+Frontend" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Web+Designe+e+Desenvolvedor+Full-Sctak" /></a>
 
 <!-- Estatísticas Animadas -->
 <img height="180em" src="https://streak-stats.demolab.com?user=joaoprocha35-dev&theme=tokyonight&animated=true"/>
